@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JD Sta. Agata</h1>
-<h3 align="center">Aspiring Web/Mobile App Fullstack Developer</h3>
+<h3 align="center">Vibe while coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staagatajd&label=Profile%20views&color=0e75b6&style=flat" alt="staagatajd" /> </p>
 
