@@ -103,4 +103,53 @@ const jd = {
         <img src="https://img.shields.io/badge/WebRTC-333?style=flat-square" />
       </p>
       <a href="https://watch-together-app-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
-      <a
+      <a href="https://github.com/staagatajd/watch-together-app"><img src="https://img.shields.io/badge/Repo-333?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐙 GitHub Repo Analyzer</h3>
+      <p>Analyzes any public GitHub repo — contributors, files, stack detection from package.json, and a Repo Health Score (0–100). Powered by Gemini 2.5 Flash with AI chat and a language breakdown bar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285f4?style=flat-square&logo=google&logoColor=white" />
+      </p>
+      <a href="https://repo-explainer-mu.vercel.app/"><img src="https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/staagatajd/repo-explainer"><img src="https://img.shields.io/badge/Repo-333?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Site</h3>
+      <p>Personal portfolio with a dark GitHub-inspired aesthetic. Built with Next.js, TypeScript, Tailwind, and Framer Motion. Features animated page transitions, a fixed sidebar layout, and a contact page wired to Gmail.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://vercel.com/daniel-sta-agatas-projects/portfolio"><img src="https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/staagatajd/portfolio"><img src="https://img.shields.io/badge/Repo-333?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=staagatajd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staagatajd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=staagatajd&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=8b949e&fontAlignY=65" />
+
+</div>
