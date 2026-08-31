@@ -29,7 +29,7 @@ const jd = {
   school:    "Visayas State University — BS Computer Science",
   year:      "3rd year (expected grad: 2028)",
   focus:     ["Backend Development", "Cloud Security", "DevSecOps"],
-  currently: "Backend dev on the Veris Development Team · studying for GCP ACE cert",
+  currently: "Backend dev on the Veris Development Team",
   whenAFK:   "Hoopin 🏀",
 };
 ```
