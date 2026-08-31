@@ -11,7 +11,7 @@
 <a href="https://leetcode.com/u/nvrmore/">
   <img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://portfolio-five-steel-54.vercel.app/">
+<a href="https://jeromedanielstaagata.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -125,7 +125,7 @@ const jd = {
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
-      <a href="https://vercel.com/daniel-sta-agatas-projects/portfolio"><img src="https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://jeromedanielstaagata.vercel.app/"><img src="https://img.shields.io/badge/Live-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
       <a href="https://github.com/staagatajd/portfolio"><img src="https://img.shields.io/badge/Repo-333?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
